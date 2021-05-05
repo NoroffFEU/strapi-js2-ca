@@ -10,7 +10,7 @@ Login details:
 
 ```
 Username: admin@admin.com
-Password: Pass1234
+Password: Pass123
 ```
 
 There is one content type in the project, accessible at `http://localhost:1337/articles`.
