@@ -1,5 +1,12 @@
 # Strapi application
 
+## Strapi version 4
+
+Version 4 of the Strapi project can be found [here](https://github.com/NoroffFEU/strapi-js2-ca-v4).
+
+---
+
+
 To start the Strapi project:
 ```
 npm install
